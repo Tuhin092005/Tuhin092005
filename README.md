@@ -26,7 +26,7 @@
 ### 👨‍💻 Programming
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,c,java" />
+  <img src="https://skillicons.dev/icons?i=python" />
 </p>
 
 ### 🤖 Machine Learning & Data Science
