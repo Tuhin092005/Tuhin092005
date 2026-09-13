@@ -86,8 +86,8 @@ Regression-based Machine Learning system for predicting vehicle fuel efficiency 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tuhin092005&show_icons=true&theme=radical&hide_border=true&rank_icon=github" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tuhin092005&layout=compact&theme=radical&hide_border=true" height="170"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tuhin092005&theme=github_dark" width="48%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tuhin092005&theme=github_dark" width="48%"/>
 </p>
 
 ---
