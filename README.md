@@ -10,13 +10,13 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 **B.Tech in Computer Science & Engineering (AIML)**
+- 🎓 **B.Tech in Computer Science & Engineering (AIML)** at **Meghnad Saha Institute of Technology (MSIT)**
 - 📚 Currently in **4th Year | 7th Semester**
-- 🐍 Passionate about **Python & Machine Learning**
-- 🤖 Interested in building practical **ML Projects**
-- 📊 Learning **Data Science & ML Algorithms**
-- 💡 Always exploring new technologies
-- 🚀 Currently working on **Machine Learning Projects**
+- 🐍 Passionate about **Python, Machine Learning & Data Science**
+- 🤖 Interested in solving real-world problems using **Machine Learning**
+- 📊 Learning **ML Algorithms, Data Analysis, and Model Deployment**
+- 💡 Always exploring new technologies and improving my coding skills.
+- 🚀 Building end-to-end Machine Learning projects using Python.
 - 🎯 Goal: Become a skilled **Machine Learning / Python Developer**
 
 ---
@@ -31,10 +31,6 @@
 
 ### 🤖 Machine Learning & Data Science
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python" />
-</p>
-
 `Scikit-Learn` • `Pandas` • `NumPy` • `Matplotlib` • `XGBoost`
 
 ### 🔧 Tools & Platforms
@@ -47,16 +43,6 @@
 
 ## 🚀 Featured Projects
 
-### 💳 Online Payment Fraud Detection
-
-Machine Learning system for detecting fraudulent online transactions.
-
-**Technologies:** Python • Pandas • NumPy • Scikit-Learn
-
-**Models:** Logistic Regression • Decision Tree • Random Forest
-
----
-
 ### 🌊 Flood Risk Prediction System
 
 ML-based system for predicting flood risk using environmental and geographical data.
@@ -67,19 +53,33 @@ ML-based system for predicting flood risk using environmental and geographical d
 
 ---
 
-### 🚌 Live Public Bus Tracking & Smart Transit Prediction
+### 🛡️ Network Intrusion Detection System
 
-An ML-based project designed to improve public transportation by predicting **Bus ETA and Delays**.
+Machine Learning-based intrusion detection system for detecting malicious and normal network traffic.
 
-**ML Features:**
+**Technologies:** Python • Pandas • NumPy • Scikit-Learn
 
-- 📍 GPS-based Prediction
-- ⏱️ ETA Prediction
-- 🚦 Delay Prediction
-- 🌦️ Weather-based Features
-- 📅 Time & Day-based Analysis
+**Models:** Logistic Regression • Decision Tree • Random Forest
 
-**Technologies:** Python • Pandas • NumPy • Scikit-Learn • XGBoost
+---
+
+### 💳 Online Payment Fraud Detection
+
+Machine Learning system for detecting fraudulent online transactions.
+
+**Technologies:** Python • Pandas • NumPy • Scikit-Learn
+
+**Models:** Logistic Regression • Decision Tree • Random Forest
+
+---
+
+### 🚗 Fuel Efficiency Prediction
+
+Regression-based Machine Learning system for predicting vehicle fuel efficiency (MPG) using automobile specifications.
+
+**Technologies:** Python • Pandas • NumPy • Matplotlib • Scikit-Learn
+
+**Models:** Linear Regression • Decision Tree Regressor • Random Forest Regressor
 
 ---
 
@@ -117,3 +117,19 @@ An ML-based project designed to improve public transportation by predicting **Bu
 📈 Data Analysis
 🧠 ML Algorithms
 🚀 Real-World ML Projects
+```
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://github.com/Tuhin092005">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  <a href="https://www.linkedin.com/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
+
+⭐ *Thanks for visiting my GitHub profile! Feel free to explore my repositories and follow my learning journey.*
