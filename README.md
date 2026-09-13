@@ -14,7 +14,7 @@
 
 ---
 
-# 🧑‍💻 About Me
+## 🧑‍💻 About Me
 
 <img align="right" alt="Coding" width="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
@@ -30,7 +30,7 @@
 
 ---
 
-# 🚀 Tech Stack
+## 🚀 Tech Stack
 
 ### 👨‍💻 Languages
 
@@ -58,9 +58,9 @@
 
 ---
 
-# 🌟 Featured Projects
+## 🌟 Featured Projects
 
-## 🌊 Flood Risk Prediction System
+### 🌊 Flood Risk Prediction System
 
 > ML-based system for predicting flood risk using environmental and geographical data.
 
@@ -74,7 +74,7 @@ Logistic Regression • Decision Tree • Random Forest
 
 ---
 
-## 🛡️ Network Intrusion Detection System
+### 🛡️ Network Intrusion Detection System
 
 > Machine Learning-based intrusion detection system for detecting malicious and normal network traffic.
 
@@ -88,7 +88,7 @@ Logistic Regression • Decision Tree • Random Forest
 
 ---
 
-## 💳 Online Payment Fraud Detection
+### 💳 Online Payment Fraud Detection
 
 > Machine Learning system for detecting fraudulent online transactions.
 
@@ -102,7 +102,7 @@ Logistic Regression • Decision Tree • Random Forest
 
 ---
 
-## 🚗 Fuel Efficiency Prediction
+### 🚗 Fuel Efficiency Prediction
 
 > Regression-based Machine Learning system for predicting vehicle fuel efficiency (MPG).
 
@@ -116,7 +116,7 @@ Linear Regression • Decision Tree Regressor • Random Forest Regressor
 
 ---
 
-# 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tuhin092005&theme=github_dark" width="48%"/>
@@ -141,7 +141,7 @@ Linear Regression • Decision Tree Regressor • Random Forest Regressor
 
 ---
 
-# 📚 Currently Learning
+## 📚 Currently Learning
 
 <p align="center">
 
@@ -155,7 +155,7 @@ Linear Regression • Decision Tree Regressor • Random Forest Regressor
 
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
 <a href="https://github.com/Tuhin092005">
