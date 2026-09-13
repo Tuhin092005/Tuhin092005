@@ -3,7 +3,7 @@
 ### 🎓 CSE (AIML) Student | 🐍 Python Developer | 🤖 Machine Learning Enthusiast
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!+👋;CSE+(AIML)+Student+🎓;Python+%7C+Machine+Learning+%7C+Data+Science;Building+Projects+and+Learning+Every+Day+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;CSE+AIML+Student;Python+%7C+Machine+Learning+%7C+Data+Science;Building+Projects+and+Learning+Every+Day+%F0%9F%9A%80" />
 </p>
 
 ---
