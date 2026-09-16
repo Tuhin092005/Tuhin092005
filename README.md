@@ -49,10 +49,10 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Logistic_Regression-0A66C2?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linear_Regression-2563EB?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Decision_Tree-16A34A?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Random_Forest-228B22?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Logistic_Regression-2563EB?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Linear_Regression-1D4ED8?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Decision_Tree-16A34A?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Random_Forest-15803D?style=for-the-badge"/>
 </p>
 
 ### 🔧 Tools & Platforms
