@@ -41,21 +41,17 @@
 ### 🤖 Machine Learning & Data Science
 
 <p align="center">
-  
   ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
   ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
   ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
   ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
-
 </p>
 
 <p align="center">
-
   ![Logistic Regression](https://img.shields.io/badge/Logistic_Regression-0A66C2?style=for-the-badge)
   ![Linear Regression](https://img.shields.io/badge/Linear_Regression-2563EB?style=for-the-badge)
   ![Decision Tree](https://img.shields.io/badge/Decision_Tree-16A34A?style=for-the-badge)
   ![Random Forest](https://img.shields.io/badge/Random_Forest-228B22?style=for-the-badge)
-
 </p>
 
 ### 🔧 Tools & Platforms
