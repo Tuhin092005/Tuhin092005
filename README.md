@@ -227,7 +227,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NLP-0EA5E9?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/NLP-09A3D5?style=for-the-badge&logo=spacy&logoColor=white"/>
 </p>
 
 ---
