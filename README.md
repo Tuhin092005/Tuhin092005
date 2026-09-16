@@ -78,7 +78,7 @@
 
 **📊 Features**
 
-`Model Accuracy Comparison` • `Confusion Matrix` • `Classification Report` • `Feature Importance Visualization` • `Flood Risk Prediction (High / Low)` • `Trained Model Saving (`.pkl`)`
+`Model Accuracy Comparison` • `Confusion Matrix` • `Classification Report` • `Feature Importance Visualization` • `Flood Risk Prediction (High / Low)` • `Trained Model Saving (.pkl)`
 
 ---
 
