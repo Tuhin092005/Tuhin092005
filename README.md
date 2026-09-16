@@ -243,7 +243,7 @@
 <img src="https://skillicons.dev/icons?i=linkedin" width="55"/>
 </a>
 
-<a href="mailto:your-email@example.com">
+<a href="mailto:tuhinmaji0905@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" width="55"/>
 </a>
 </p>
