@@ -93,11 +93,9 @@
 
 #### 📊 Features
 
-`Model Accuracy Comparison` `Confusion Matrix` `Classification Report`
+`Model Accuracy Comparison` `Confusion Matrix` `Classification Report` `Feature Importance Visualization` 
 
-`Feature Importance Visualization` `Flood Risk Prediction (High / Low)`
-
-`Trained Model Saving (.pkl)`
+`Flood Risk Prediction (High / Low)` `Trained Model Saving (.pkl)`
 
 ---
 
@@ -111,11 +109,9 @@
 
 #### 📚 Machine Learning Techniques
 
-`Data Cleaning` `Missing Value Handling` `Duplicate Removal`
+`Data Cleaning` `Missing Value Handling` `Duplicate Removal` `Label Encoding` 
 
-`Label Encoding` `Feature Scaling` `Binary Classification`
-
-`Feature Importance Analysis`
+`Feature Scaling` `Binary Classification` `Feature Importance Analysis`
 
 #### 🤖 Models
 
@@ -123,11 +119,9 @@
 
 #### 📊 Features
 
-`Model Accuracy Comparison` `Confusion Matrix` `Classification Report`
+`Model Accuracy Comparison` `Confusion Matrix` `Classification Report` `Top Feature Importance Visualization` 
 
-`Top Feature Importance Visualization` `Intrusion Prediction (Normal / Attack)`
-
-`Trained Model Saving (.pkl)`
+`Intrusion Prediction (Normal / Attack)` `Trained Model Saving (.pkl)`
 
 ---
 
@@ -141,11 +135,9 @@
 
 #### 📚 Machine Learning Techniques
 
-`Data Preprocessing` `Missing Value Handling` `Duplicate Removal`
+`Data Preprocessing` `Missing Value Handling` `Duplicate Removal` `Label Encoding` 
 
-`Label Encoding` `Feature Scaling` `Fraud Classification`
-
-`Feature Importance Analysis`
+`Feature Scaling` `Fraud Classification` `Feature Importance Analysis`
 
 #### 🤖 Models
 
@@ -153,11 +145,9 @@
 
 #### 📊 Features
 
-`Model Accuracy Comparison` `Confusion Matrix` `Classification Report`
+`Model Accuracy Comparison` `Confusion Matrix` `Classification Report` `Feature Importance Visualization` 
 
-`Feature Importance Visualization` `Fraud Detection (Fraudulent / Legitimate)`
-
-`Trained Model Saving (.pkl)`
+`Fraud Detection (Fraudulent / Legitimate)` `Trained Model Saving (.pkl)`
 
 ---
 
@@ -171,11 +161,9 @@
 
 #### 📚 Machine Learning Techniques
 
-`Data Preprocessing` `Missing Value Handling` `Duplicate Removal`
+`Data Preprocessing` `Missing Value Handling` `Duplicate Removal` `Label Encoding` 
 
-`Label Encoding` `Feature Scaling` `Train-Test Split`
-
-`Regression Evaluation` `Feature Importance Analysis`
+`Feature Scaling` `Train-Test Split` `Regression Evaluation` `Feature Importance Analysis`
 
 #### 🤖 Models
 
@@ -183,11 +171,9 @@
 
 #### 📊 Features
 
-`R² Score Comparison` `MAE` `MSE` `RMSE Evaluation`
+`R² Score Comparison` `MAE` `MSE` `RMSE Evaluation` `Actual vs Predicted Visualization` 
 
-`Actual vs Predicted Visualization` `Feature Importance Visualization`
-
-`Fuel Efficiency Prediction (MPG)` `Trained Model Saving (.pkl)`
+`Feature Importance Visualization` `Fuel Efficiency Prediction (MPG)` `Trained Model Saving (.pkl)`
 
 ---
 
