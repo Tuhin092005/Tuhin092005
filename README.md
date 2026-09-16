@@ -72,11 +72,7 @@
 
 `Data Preprocessing` `Missing Value Handling` `Duplicate Removal`
 
-<br>
-
 `Label Encoding` `Feature Scaling` `Train-Test Split`
-
-<br>
 
 `Feature Importance Analysis`
 
