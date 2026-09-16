@@ -100,11 +100,7 @@
 
 `Data Cleaning` `Missing Value Handling` `Duplicate Removal`
 
-<br>
-
 `Label Encoding` `Feature Scaling` `Binary Classification`
-
-<br>
 
 `Feature Importance Analysis`
 
@@ -116,11 +112,7 @@
 
 `Model Accuracy Comparison` `Confusion Matrix` `Classification Report`
 
-<br>
-
 `Top Feature Importance Visualization` `Intrusion Prediction (Normal / Attack)`
-
-<br>
 
 `Trained Model Saving (.pkl)`
 
@@ -138,11 +130,7 @@
 
 `Data Preprocessing` `Missing Value Handling` `Duplicate Removal`
 
-<br>
-
 `Label Encoding` `Feature Scaling` `Fraud Classification`
-
-<br>
 
 `Feature Importance Analysis`
 
@@ -154,11 +142,7 @@
 
 `Model Accuracy Comparison` `Confusion Matrix` `Classification Report`
 
-<br>
-
 `Feature Importance Visualization` `Fraud Detection (Fraudulent / Legitimate)`
-
-<br>
 
 `Trained Model Saving (.pkl)`
 
@@ -176,11 +160,7 @@
 
 `Data Preprocessing` `Missing Value Handling` `Duplicate Removal`
 
-<br>
-
 `Label Encoding` `Feature Scaling` `Train-Test Split`
-
-<br>
 
 `Regression Evaluation` `Feature Importance Analysis`
 
@@ -192,13 +172,10 @@
 
 `R² Score Comparison` `MAE` `MSE` `RMSE Evaluation`
 
-<br>
-
 `Actual vs Predicted Visualization` `Feature Importance Visualization`
 
-<br>
-
 `Fuel Efficiency Prediction (MPG)` `Trained Model Saving (.pkl)`
+
 ---
 
 ## 📊 GitHub Analytics
