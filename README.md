@@ -70,15 +70,15 @@
 
 **📚 Machine Learning Techniques**
 
-Data Preprocessing • Missing Value Handling • Duplicate Removal • Label Encoding • Feature Scaling • Train-Test Split • Feature Importance Analysis
+`Data Preprocessing` • `Missing Value Handling` • `Duplicate Removal` • `Label Encoding` • `Feature Scaling` • `Train-Test Split` • `Feature Importance Analysis`
 
 **🤖 Models**
 
-Logistic Regression • Decision Tree Classifier • Random Forest Classifier
+`Logistic Regression` • `Decision Tree Classifier` • `Random Forest Classifier`
 
 **📊 Features**
 
-Model Accuracy Comparison • Confusion Matrix • Classification Report • Feature Importance Visualization • Flood Risk Prediction (High / Low) • Trained Model Saving (`.pkl`)
+`Model Accuracy Comparison` • `Confusion Matrix` • `Classification Report` • `Feature Importance Visualization` • `Flood Risk Prediction (High / Low)` • `Trained Model Saving (`.pkl`)`
 
 ---
 
