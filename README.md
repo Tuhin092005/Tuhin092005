@@ -221,7 +221,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Machine_Learning-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Deep_Learning-8A2BE2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Deep_Learning-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
 </p>
 
 <p align="center">
