@@ -219,13 +219,15 @@
 ## 📚 Currently Learning
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Machine_Learning-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Deep_Learning-8A2BE2?style=for-the-badge"/>
+</p>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge)
-![Data Science](https://img.shields.io/badge/Data_Science-0064A5?style=for-the-badge)
-![Data Analysis](https://img.shields.io/badge/Data_Analysis-00C853?style=for-the-badge)
-![XGBoost](https://img.shields.io/badge/XGBoost-EC6B23?style=for-the-badge)
-
+<p align="center">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NLP-0EA5E9?style=for-the-badge"/>
 </p>
 
 ---
