@@ -44,7 +44,8 @@
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/Matplotlib-11557C?style=for-the
+    badge&logoImage=https%3A%2F%2Fimages.tpointtech.com%2Ftutorial%2Fmatplotlib%2Fimages%2Fmatplotlib-tutorial.png&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
 </p>
 
