@@ -62,57 +62,89 @@
 
 ### 🌊 Flood Risk Prediction System
 
-> ML-based system for predicting flood risk using environmental and geographical data.
+> ML-based system for predicting flood risk using environmental and geographical data for early flood prediction and risk classification.
 
 **🛠️ Technologies**
 
-`Python` • `Pandas` • `NumPy` • `Scikit-Learn`
+`Python` • `Pandas` • `NumPy` • `Matplotlib` • `Seaborn` • `Scikit-Learn` • `Joblib`
+
+**📚 Machine Learning Techniques**
+
+Data Preprocessing • Missing Value Handling • Duplicate Removal • Label Encoding • Feature Scaling • Train-Test Split • Feature Importance Analysis
 
 **🤖 Models**
 
-Logistic Regression • Decision Tree • Random Forest
+Logistic Regression • Decision Tree Classifier • Random Forest Classifier
+
+**📊 Features**
+
+Model Accuracy Comparison • Confusion Matrix • Classification Report • Feature Importance Visualization • Flood Risk Prediction (High / Low) • Trained Model Saving (`.pkl`)
 
 ---
 
 ### 🛡️ Network Intrusion Detection System
 
-> Machine Learning-based intrusion detection system for detecting malicious and normal network traffic.
+> Machine Learning-based intrusion detection system for detecting malicious and normal network traffic using the NSL-KDD dataset.
 
 **🛠️ Technologies**
 
-`Python` • `Pandas` • `NumPy` • `Scikit-Learn`
+`Python` • `Pandas` • `NumPy` • `Matplotlib` • `Seaborn` • `Scikit-Learn` • `Joblib`
+
+**📚 Machine Learning Techniques**
+
+Data Cleaning • Missing Value Handling • Duplicate Removal • Label Encoding • Feature Scaling • Binary Classification • Feature Importance Analysis
 
 **🤖 Models**
 
-Logistic Regression • Decision Tree • Random Forest
+Logistic Regression • Decision Tree Classifier • Random Forest Classifier
+
+**📊 Features**
+
+Model Accuracy Comparison • Confusion Matrix • Classification Report • Top Feature Importance Visualization • Intrusion Prediction (Normal / Attack) • Trained Model Saving (`.pkl`)
 
 ---
 
 ### 💳 Online Payment Fraud Detection
 
-> Machine Learning system for detecting fraudulent online transactions.
+> Machine Learning system for detecting fraudulent online payment transactions using transaction details and behavioral features.
 
 **🛠️ Technologies**
 
-`Python` • `Pandas` • `NumPy` • `Scikit-Learn`
+`Python` • `Pandas` • `NumPy` • `Matplotlib` • `Seaborn` • `Scikit-Learn` • `Joblib`
+
+**📚 Machine Learning Techniques**
+
+Data Preprocessing • Missing Value Handling • Duplicate Removal • Label Encoding • Feature Scaling • Fraud Classification • Feature Importance Analysis
 
 **🤖 Models**
 
-Logistic Regression • Decision Tree • Random Forest
+Logistic Regression • Decision Tree Classifier • Random Forest Classifier
+
+**📊 Features**
+
+Model Accuracy Comparison • Confusion Matrix • Classification Report • Feature Importance Visualization • Fraud Detection (Fraudulent / Legitimate) • Trained Model Saving (`.pkl`)
 
 ---
 
 ### 🚗 Fuel Efficiency Prediction
 
-> Regression-based Machine Learning system for predicting vehicle fuel efficiency (MPG).
+> Regression-based Machine Learning system for predicting vehicle fuel efficiency (MPG) using automobile specifications.
 
 **🛠️ Technologies**
 
-`Python` • `Pandas` • `NumPy` • `Matplotlib` • `Scikit-Learn`
+`Python` • `Pandas` • `NumPy` • `Matplotlib` • `Seaborn` • `Scikit-Learn` • `Joblib`
+
+**📚 Machine Learning Techniques**
+
+Data Preprocessing • Missing Value Handling • Duplicate Removal • Label Encoding • Feature Scaling • Train-Test Split • Regression Evaluation • Feature Importance Analysis
 
 **🤖 Models**
 
 Linear Regression • Decision Tree Regressor • Random Forest Regressor
+
+**📊 Features**
+
+R² Score Comparison • MAE • MSE • RMSE Evaluation • Actual vs Predicted Visualization • Feature Importance Visualization • Fuel Efficiency Prediction • Trained Model Saving (`.pkl`)
 
 ---
 
