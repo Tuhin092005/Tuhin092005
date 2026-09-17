@@ -16,8 +16,10 @@
 
 ## 🧑‍💻 About Me
 
-<img align="right" alt="Coding" width="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
+<table>
+  <tr>
+    <td width="68%">
+      
 - 🎓 **B.Tech in Computer Science & Engineering (Artificial Intelligence & Machine Learning)**
 - 🏫 **Meghnad Saha Institute of Technology (MSIT), Kolkata**
 - 📚 **4th Year | 7th Semester**
@@ -28,6 +30,14 @@
 - 💡 Always exploring new technologies and improving problem-solving skills.
 - 🚀 Working on practical projects with real-world datasets and predictive models.
 - 🎯 **Aspiring Machine Learning Engineer | Python Developer**
+
+  </td>
+
+  <td width="32%" align="center">
+    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220"/>
+  </td>
+  </tr>
+</table>
 
 ---
 
