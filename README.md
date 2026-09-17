@@ -18,15 +18,16 @@
 
 <img align="right" alt="Coding" width="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🎓 **B.Tech in Computer Science & Engineering (AIML)**
-- 🏫 **Meghnad Saha Institute of Technology (MSIT)**
+- 🎓 **B.Tech in Computer Science & Engineering (Artificial Intelligence & Machine Learning)**
+- 🏫 **Meghnad Saha Institute of Technology (MSIT), Kolkata**
 - 📚 **4th Year | 7th Semester**
-- 🐍 Passionate about **Python, Machine Learning & Data Science**
-- 🤖 Building practical ML projects using real datasets.
-- 📊 Interested in **AI, Prediction Systems & Data Analytics**
-- 💡 Exploring new technologies every day.
-- 🚀 Currently working on Machine Learning Projects.
-- 🎯 Goal: **Machine Learning Engineer / Python Developer**
+- 🐍 Passionate about **Python, Machine Learning, Deep Learning & Data Science**
+- 🤖 Building real-world **AI/ML projects** using Python and Scikit-Learn.
+- 📊 Interested in **Machine Learning, NLP, Prediction Systems & Data Analytics**.
+- 🔍 Currently learning **TensorFlow, PyTorch, Deep Learning & NLP**.
+- 💡 Always exploring new technologies and improving problem-solving skills.
+- 🚀 Working on practical projects with real-world datasets and predictive models.
+- 🎯 **Aspiring Machine Learning Engineer | Python Developer**
 
 ---
 
