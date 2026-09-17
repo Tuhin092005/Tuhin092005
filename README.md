@@ -44,7 +44,7 @@
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://custom-icon-badges.demolab.com/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
+  <img src="https://www.opensourceforu.com/wp-content/uploads/2017/01/matplotlib-logo.png" height="28"/>  
   <img src="https://custom-icon-badges.demolab.com/badge/Seaborn-4C72B0?style=for-the-badge&logo=seaborn&logoColor=white"/>
 </p>
 
