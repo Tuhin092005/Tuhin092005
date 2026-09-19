@@ -220,7 +220,7 @@
 
 **YOLO**
 
-Merged a pull request without a review.
+*Merged a pull request without a review*
 
 </td>
 
@@ -230,7 +230,7 @@ Merged a pull request without a review.
 
 **Quickdraw**
 
-Closed an issue or pull request within 5 minutes.
+*Closed an issue or pull request within 5 minutes*
 
 </td>
 </tr>
