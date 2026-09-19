@@ -220,8 +220,6 @@
 
 ### YOLO
 
-*Merged a pull request without a review.*
-
 </td>
 
 <td align="center" width="280">
@@ -229,8 +227,6 @@
 <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="110"/>
 
 ### Quickdraw
-
-*Closed an issue or pull request within 5 minutes of opening it.*
 
 </td>
 </tr>
