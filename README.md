@@ -216,17 +216,21 @@
 <tr>
 <td align="center" width="280">
 
-<img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="110"/>
+<img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="120"/>
 
 ### YOLO
+
+<sub>Official GitHub Achievement</sub>
 
 </td>
 
 <td align="center" width="280">
 
-<img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="110"/>
+<img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="120"/>
 
 ### Quickdraw
+
+<sub>Official GitHub Achievement</sub>
 
 </td>
 </tr>
