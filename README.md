@@ -212,14 +212,29 @@
 
 ## 🏅 GitHub Achievements
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Achievement-Pull_Shark-0969DA?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Achievement-Quickdraw-0969DA?style=for-the-badge&logo=github&logoColor=white" />
-</p>
+<table align="center">
+<tr>
+<td align="center" width="280">
 
-<p align="center">
-  🎉 Earned GitHub achievements through contributions and GitHub activity.
-</p>
+<img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="110"/>
+
+### YOLO
+
+*Merged a pull request without a review.*
+
+</td>
+
+<td align="center" width="280">
+
+<img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="110"/>
+
+### Quickdraw
+
+*Closed an issue or pull request within 5 minutes of opening it.*
+
+</td>
+</tr>
+</table>
 
 ---
 
