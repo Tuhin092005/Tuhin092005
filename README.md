@@ -218,9 +218,9 @@
 
 <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="120"/>
 
-### YOLO
+**YOLO**
 
-<sub>Official GitHub Achievement</sub>
+Merged a pull request without a review.
 
 </td>
 
@@ -228,9 +228,9 @@
 
 <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="120"/>
 
-### Quickdraw
+**Quickdraw**
 
-<sub>Official GitHub Achievement</sub>
+Closed an issue or pull request within 5 minutes.
 
 </td>
 </tr>
