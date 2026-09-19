@@ -205,7 +205,7 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/58A6FF/Tuhin092005" width="95%" />
+  <img src="https://streak-stats.demolab.com?user=Tuhin092005&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
 </p>
 
 ---
