@@ -7,9 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Tuhin092005&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
-  <img src="https://img.shields.io/github/followers/Tuhin092005?style=for-the-badge&color=blue"/>
-  <img src="https://img.shields.io/github/stars/Tuhin092005?style=for-the-badge&color=yellow"/>
+  <img src="https://komarev.com/ghpvc/?username=Tuhin092005&label=Profile+Visitors&color=0e75b6&style=for-the-badge" />
 </p>
 
 ---
