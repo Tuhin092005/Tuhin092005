@@ -210,6 +210,19 @@
 
 ---
 
+## 🏅 GitHub Achievements
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Achievement-Pull_Shark-0969DA?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Achievement-Quickdraw-0969DA?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+<p align="center">
+  🎉 Earned GitHub achievements through contributions and GitHub activity.
+</p>
+
+---
+
 ## 🐍 Contribution Snake
 
 <p align="center">
